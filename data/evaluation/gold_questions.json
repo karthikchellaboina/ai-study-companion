@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is Retrieval-Augmented Generation?",
+        "expected_sources": [
+            "02_Generative_AI_Engineering_Study_Guide.pdf"
+        ]
+    },
+    {
+        "question": "What limitation of large language models does RAG address?",
+        "expected_sources": [
+            "02_Generative_AI_Engineering_Study_Guide.pdf"
+        ]
+    },
+    {
+        "question": "What are embeddings used for in AI applications?",
+        "expected_sources": [
+            "02_Generative_AI_Engineering_Study_Guide.pdf"
+        ]
+    },
+    {
+        "question": "What is prompt engineering?",
+        "expected_sources": [
+            "02_Generative_AI_Engineering_Study_Guide.pdf"
+        ]
+    },
+    {
+        "question": "What is vector search?",
+        "expected_sources": [
+            "02_Generative_AI_Engineering_Study_Guide.pdf"
+        ]
+    },
+    {
+        "question": "What is a Python list?",
+        "expected_sources": [
+            "01_Data_Science_Essentials_in_Python.pdf"
+        ]
+    },
+    {
+        "question": "How are dictionaries used in Python?",
+        "expected_sources": [
+            "01_Data_Science_Essentials_in_Python.pdf"
+        ]
+    },
+    {
+        "question": "How can Python work with JSON data?",
+        "expected_sources": [
+            "01_Data_Science_Essentials_in_Python.pdf"
+        ]
+    },
+    {
+        "question": "What is NumPy used for?",
+        "expected_sources": [
+            "01_Data_Science_Essentials_in_Python.pdf"
+        ]
+    },
+    {
+        "question": "What is Pandas used for in data science?",
+        "expected_sources": [
+            "01_Data_Science_Essentials_in_Python.pdf"
+        ]
+    }
+]

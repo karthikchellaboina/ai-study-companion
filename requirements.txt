@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+anthropic
+sentence-transformers
+numpy
+pypdf
+langfuse
